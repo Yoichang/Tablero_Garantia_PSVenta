@@ -19,6 +19,7 @@ Análisis de la Tabla de Referencias en Garantía:
 Profundicemos ahora en el aspecto de garantía. Es fundamental cerrar nuestras órdenes de trabajo a tiempo para mantener la confianza del cliente y asegurarnos de que no estamos perdiendo ingresos. Además, el porcentaje de referencias cerradas en cero es un indicador crucial para identificar posibles problemas en nuestra operación.
 
 Preguntas Clave:
+
 4. ¿Cuál ha sido el mes con el mayor número de referencias cerradas en garantía?
 5. ¿El porcentaje de referencias cerradas en cero muestra una tendencia creciente o decreciente? ¿Cuál fue el mes con el porcentaje más alto?
 6. ¿Cómo se comparan las referencias tramitadas en garantía con las referencias cerradas?
